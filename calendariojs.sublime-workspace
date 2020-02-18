@@ -1,0 +1,695 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dia",
+				"diaSemanaPrimeiroDiaDoMes"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"date",
+				"dateArray"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"html",
+				"htmlToast"
+			],
+			[
+				"boo",
+				"bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"btn",
+				"btn-common"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"valu",
+				"value"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"bt",
+				"btn-common"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"create",
+				"create_at"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"te",
+				"textos"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"uplo",
+				"upload_dir"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"dono",
+				"dono1"
+			],
+			[
+				"meu",
+				"meuCarro"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"hr",
+				"hr_divider"
+			],
+			[
+				"content",
+				"content_box"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"lang",
+				"languages"
+			],
+			[
+				"field",
+				"fields"
+			],
+			[
+				"fie",
+				"fields"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"men",
+				"Menu"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 885,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/calendar.php",
+			"settings":
+			{
+				"buffer_size": 131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "app/class/Calendar.php",
+			"settings":
+			{
+				"buffer_size": 2756,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "app/servidor.php",
+			"settings":
+			{
+				"buffer_size": 126,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/assets/js/calendarAPI.js",
+			"settings":
+			{
+				"buffer_size": 228,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 124.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ftps",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/app"
+	],
+	"file_history":
+	[
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/public/assets/js/calendarAPI.js",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/public/assets/css/calendar.css",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/index.html",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/.htaccess",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/servidor.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/flash_messanger/README.md",
+		"/home/deyvison/Documents/ambdev/workspaces/php/flash_messanger/app/Enums/Messenger",
+		"/home/deyvison/Documents/ambdev/workspaces/php/flash_messanger/resources/layout/layout.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/flash_messanger/resources/layouts/simple.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/laravel_cms_lte/laravel/.env.example",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritscarreiras/README.md",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritscarreiras/resources/views/site/layout/_includes/footer.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritscarreiras/config/database.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritscarreiras/resources/views/site/layout/_includes/header.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritscarreiras/resources/views/admin/layouts/app.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/public/css/app.css",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/routes/web.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/auth/login.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Http/Controllers/Auth/LoginController.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Http/Controllers/Controller.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/admin/layouts/app.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/site/layout/_includes/footer.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/config/app.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/site/layout/_includes/header.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/site/layout/site.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/public/js/script.js",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/auth/login.stub",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Providers/BroadcastServiceProvider.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Http/Controllers/AdminController.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/layouts/app.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/database/seeds/UserSeeder.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/database/seeds/DatabaseSeeder.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/welcome.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/resources/views/site/layout/_includes/form.blade.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Http/Controllers/CandidaturaController.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Candidato.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/database/migrations/2020_01_26_033000_create_candidatos_table.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Arquivo.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/.env",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/tests/Feature/upandoArquivoTest.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/app/Helpers/Helper.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/public/js/validaForm.js",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/public/css/main.css",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/ritstecnologia/database/migrations/2020_01_26_031145_create_arquivos_table.php",
+		"/home/deyvison/Documents/ambdev/workspaces/php/rits_tecnologia/template/mate-1.0.1/css/main.css",
+		"/var/www/html/beauty_salon/database/migrations/2018_01_25_203056_create_news_table.php",
+		"/var/www/html/beauty_salon/database/migrations/2018_01_25_122205_create_textos_topos_table.php",
+		"/var/www/html/beauty_salon/index.php",
+		"/var/www/html/beauty_salon/resources/views/layouts/admin.blade.php",
+		"/var/www/html/beauty_salon/resources/views/layouts/app-old.blade.php",
+		"/var/www/html/beauty_salon/resources/views/layouts/app.blade.php",
+		"/var/www/html/beauty_salon/resources/views/layouts/site.blade.php",
+		"/var/www/html/beauty_salon/storage/framework/views/8225922406e604bbe848cd27d8130ef7f81ddb90.php",
+		"/var/www/html/beauty_salon/storage/framework/views/8e3b04fd5266153486b5d34402499c13068bed77.php",
+		"/var/www/html/beauty_salon/storage/framework/views/924e8d76b1be78fd76e45b7a0f93ccce15da424e.php",
+		"/var/www/html/beauty_salon/storage/framework/views/c9a53f27132a8fbcad26d557f9239b5ac462b7c9.php",
+		"/var/www/html/beauty_salon/storage/framework/views/db5371adf1b8c578e4423d43f142e988927ff429.php",
+		"/var/www/html/beauty_salon/resources/views/site/about.blade.php",
+		"/var/www/html/beauty_salon/resources/views/site/index.blade.php",
+		"/var/www/html/beauty_salon/storage/framework/views/1009f1b87534b089026c8367db86a7162a7fa8c5.php",
+		"/var/www/html/beauty_salon/storage/framework/views/f64ec70b49f05d35971747fda3b064f961e05533.php",
+		"/var/www/html/beauty_salon/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/layouts/app.stub",
+		"/var/www/html/beauty_salon/resources/views/admin/forms/form_textos_topo.blade.php",
+		"/var/www/html/beauty_salon/public/index.php",
+		"/var/www/html/beauty_salon/.htaccess",
+		"/var/www/html/beauty_salon/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/var/www/html/beauty_salon/bootstrap/app.php",
+		"/var/www/html/beauty_salon/server.php",
+		"/var/www/html/beauty_salon/Procfile",
+		"/var/www/html/beauty_salon/app/Http/Controllers/SiteController.php",
+		"/var/www/html/beauty_salon/app/Http/Controllers/HomeController.php",
+		"/var/www/html/beauty_salon/resources/views/admin/news.blade.php",
+		"/var/www/html/beauty_salon/resources/views/admin/forms/form_news.blade.php",
+		"/var/www/html/beauty_salon/routes/web.php",
+		"/var/www/html/beauty_salon/public/.htaccess",
+		"/var/www/html/beauty_salon/resources/views/admin/forms/form_top_page.blade.php",
+		"/var/www/html/beauty_salon/app/Models/TextosTopo.php",
+		"/var/www/html/AdminLTE/pages/tables/data.html",
+		"/var/www/html/beauty_salon/app/Classes/UploadHandler.php",
+		"/var/www/html/beauty_salon/public/css/form-style.css",
+		"/var/www/html/beauty_salon/resources/views/layouts/admin_fileupload.blade.php",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/main.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/jquery.fileupload.js",
+		"/var/www/html/beauty_salon/resources/views/admin/index.blade.php",
+		"/var/www/html/beauty_salon/storage/site_img/top_slides/teste",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/load-image.all.min.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/tmpl.min.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/canvas-to-blob.min.js",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/js/jquery.blueimp-gallery.min.js",
+		"/var/www/html/jquery-file-upload/server/php/UploadHandler.php",
+		"/var/www/html/jquery-file-upload/index.html",
+		"/var/www/html/beauty_salon/public/plugins/jquery-file-upload/css/blueimp-gallery.min.css",
+		"/var/www/html/beauty_salon/resources/views/auth/login.blade.php",
+		"/var/www/html/beauty_salon/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/beauty_salon/public/css/app.css",
+		"/var/www/html/beauty_salon/.env",
+		"/var/www/html/AdminLTE/index.html",
+		"/var/www/html/beauty_salon/resources/views/admin/index.html",
+		"/var/www/html/beauty_salon/resources/assets/sass/_variables.scss",
+		"/var/www/html/beauty_salon/resources/views/site/service.blade.php",
+		"/var/www/html/beauty_salon/public/css/style.css",
+		"/var/www/html/beauty_salon/resources/views/site/gallery.blade.php",
+		"/var/www/html/beauty_salon/resources/views/site/contact.blade.php",
+		"/var/www/html/beauty-salon/app/Http/Controllers/SiteController.php",
+		"/var/www/html/beauty-salon/resources/views/site/index.blade.php",
+		"/var/www/html/beauty-salon/routes/web.php",
+		"/var/www/html/beauty-salon/resources/views/layouts/site.blade.php",
+		"/var/www/html/beauty_salon/index.html",
+		"/var/www/html/beauty-salon/resources/views/site/layout/site.blade.php",
+		"/home/gambit/Documents/java-algaworks/oo/automovel/Proprietario.java",
+		"/home/gambit/Documents/java-algaworks/oo/automovel/Principal.java",
+		"/home/gambit/Documents/java-algaworks/oo/automovel/Carro.java",
+		"/home/gambit/Documents/java-algaworks/oo/Principal.java",
+		"/home/gambit/Documents/java-algaworks/oo/Proprietario.java",
+		"/home/gambit/Documents/java-algaworks/oo/Carro.java",
+		"/home/gambit/Documents/java-algaworks/AreaCirculo.java",
+		"/var/www/html/portfolio/css/tooplate_style.css",
+		"/var/www/html/portfolio/README",
+		"/var/www/html/portfolio/index.html",
+		"/var/www/html/portfolio/js/languages.js",
+		"/var/www/html/portfolio/js/util.js",
+		"/var/www/html/portfolio/js/jquery.js",
+		"/var/www/html/portfolio/teste.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sub",
+			"$date",
+			"    \t\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$this->date"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 885,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/calendar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/class/Calendar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/servidor.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/assets/js/calendarAPI.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "calendariojs.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
