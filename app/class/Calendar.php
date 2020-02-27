@@ -14,8 +14,6 @@ class Calendar {
 	const SECONDS_DAY = self::SECOND*self::MIN*self::HOUR; //Segundos em dia
 	const NUM_LINES_BLOCO = 6; //Número de linhas em um bloco/mês
 
-	private $date;
-	private $dateArray;
 
 	function __construct(){
 		
@@ -53,13 +51,29 @@ class Calendar {
 	}
 
 	public function nextMonth(string $date){	
-		$nextmonthTime = mktime(0, 0, 0, getDateArray($date)['m']+1, getDateArray($date)['d'], getDateArray($date)['y']);
-		return date(self::D_FORMAT, $nextmonthTime);
+		$dateArray = $this->getDateArray($date); 
+		
+		if($dateArray['m']+1 > 12){
+			$dateArray['m'] = 1;
+			$dateArray['y'] += 1;
+		}else{
+			$dateArray['m'] += 1;
+		}
+
+		return date('Y-m-d', strtotime($dateArray['y'].'-'.$dateArray['m'].'-01'));
 	}
 
 	public function lastMonth(string $date){	
-		$lastmonthTime = mktime(0, 0, 0, getDateArray($date)['m']+1, getDateArray($date)['d'], getDateArray($date)['y']);
-		return date(self::D_FORMAT, $lastmonthTime);
+		$dateArray = $this->getDateArray($date); 
+		
+		if($dateArray['m']-1 <= 0){
+			$dateArray['m'] = 12;
+			$dateArray['y'] -= 1;
+		}else{
+			$dateArray['m'] -= 1;
+		}
+
+		return date('Y-m-d', strtotime($dateArray['y'].'-'.$dateArray['m'].'-01'));
 	}
 
 	public function getPrimeiroDiaBloco($date){

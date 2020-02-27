@@ -10,8 +10,20 @@
 
 	<div class="dateText"></div>
 
-	<p class="rightArrow"><i class="right"></i></p>
-	<p class="leftArrow"><i class="left"></i></p>
+
+	<form id="formProximoMes" onsubmit="return ajaxFunction(this, event)" method="POST">
+		<input type="hidden" name="proximoMes" id="proximoMes" value="">
+		<button type="submit">
+			<p class="rightArrow"><i class="right"></i></p>		
+		</button>		
+	</form>
+
+	<form id="formMesAnterior" onsubmit="return ajaxFunction(this, event)" method="POST">
+		<input type="hidden" name="mesAnterior" id="mesAnterior" value="">
+		<button type="submit">			
+			<p class="leftArrow"><i class="left"></i></p>
+		</button>
+	</form>
 
 	<div class="container teal lighten-2">
     	<div class="row" id="headCalendar">   
