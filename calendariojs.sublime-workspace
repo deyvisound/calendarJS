@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ali",
+				"vertical-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
 				"dia",
 				"diaSemanaPrimeiroDiaDoMes"
 			],
@@ -14,10 +34,6 @@
 			[
 				"date",
 				"dateArray"
-			],
-			[
-				"marg",
-				"margin\tproperty"
 			],
 			[
 				"padd",
@@ -36,20 +52,12 @@
 				"bottom\tproperty"
 			],
 			[
-				"fon",
-				"font-weight\tproperty"
-			],
-			[
 				"col",
 				"color\tproperty"
 			],
 			[
 				"mar",
 				"margin-bottom\tproperty"
-			],
-			[
-				"back",
-				"background-color\tproperty"
 			],
 			[
 				"font",
@@ -86,10 +94,6 @@
 			[
 				"valu",
 				"value"
-			],
-			[
-				"ali",
-				"align-content\tproperty"
 			],
 			[
 				"bt",
@@ -207,7 +211,16 @@
 			"file": "public/index.html",
 			"settings":
 			{
-				"buffer_size": 885,
+				"buffer_size": 2652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/assets/css/calendar.css",
+			"settings":
+			{
+				"buffer_size": 345,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -216,7 +229,7 @@
 			"file": "app/calendar.php",
 			"settings":
 			{
-				"buffer_size": 131,
+				"buffer_size": 152,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "<?php"
@@ -226,7 +239,7 @@
 			"file": "app/class/Calendar.php",
 			"settings":
 			{
-				"buffer_size": 2756,
+				"buffer_size": 2933,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "<?php"
@@ -236,7 +249,7 @@
 			"file": "app/servidor.php",
 			"settings":
 			{
-				"buffer_size": 126,
+				"buffer_size": 76,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -245,7 +258,7 @@
 			"file": "public/assets/js/calendarAPI.js",
 			"settings":
 			{
-				"buffer_size": 228,
+				"buffer_size": 230,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -292,7 +305,11 @@
 	"expanded_folders":
 	[
 		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS",
-		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/app"
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/app",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/app/class",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/public",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/public/assets",
+		"/home/deyvison/Documents/ambdev/workspaces/calendarioJS/public/assets/css"
 	],
 	"file_history":
 	[
@@ -441,6 +458,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"s12 m12 l12",
+			"getDateArray",
 			"sub",
 			"$date",
 			"    \t\t\t\n"
@@ -451,6 +470,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"s10 m10 l10",
 			"$this->date"
 		],
 		"reverse": false,
@@ -462,7 +482,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -471,20 +491,77 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 885,
+						"buffer_size": 2652,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								365,
-								365
+								752,
+								752
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/assets/css/calendar.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/calendar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -494,49 +571,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "app/calendar.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								73,
-								73
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<?php",
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "app/class/Calendar.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2756,
+						"buffer_size": 2933,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								628,
-								628
+								2763,
+								2763
 							]
 						],
 						"settings":
@@ -545,27 +593,27 @@
 							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 765.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "app/servidor.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 126,
+						"buffer_size": 76,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								81,
-								81
+								76,
+								76
 							]
 						],
 						"settings":
@@ -576,24 +624,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "public/assets/js/calendarAPI.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 228,
+						"buffer_size": 230,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								148,
-								148
+								142,
+								142
 							]
 						],
 						"settings":
@@ -604,7 +652,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]

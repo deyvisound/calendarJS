@@ -87,7 +87,27 @@ class Calendar {
 		return $this->somarDias($newDate, (13 - $diaSemanaUltimoDiaDoMes));
 	}
 
-	public function completeCalendarJson(string $date){	
+	//Verifica se as datas pertencem ao mesmo mes e ano
+	public function dataMesmoMes($date1, $date2){
+		$time1 = strtotime($date1);
+		$time2 = strtotime($date2);		
+
+		if(date('mY', $time1) == date('mY', $time2))
+			return true;
+
+		return false; 
+	}
+
+	public function toBr(string $date){
+		return date(self::B_FORMAT, strtotime($date));
+	}
+
+	public function dateText(string $date){
+		$time = strtotime($date);
+		return date('l, d F Y', $time); 
+	}
+
+	public function completeCalendarArray(string $date){	
 		$primeiraDataBloco = $this->getPrimeiroDiaBloco($date);
 		$ultimaDataBloco = $this->getUltimoDiaBloco($date);
 
@@ -96,8 +116,10 @@ class Calendar {
 
 			$calendar[$time] = [
 				'date' => date(self::D_FORMAT, $time), 
+				'dateBr' => date(self::B_FORMAT, $time),
 				'dayweek' => $this->getDayOfWeek($primeiraDataBloco),
-				'daymonth' => date('d', $time)
+				'daymonth' => date('d', $time),
+				'mesmoMes' => $this->dataMesmoMes($date, $primeiraDataBloco)
 			];
 
 			$primeiraDataBloco = $this->somarDias($primeiraDataBloco, 1);		

@@ -5,7 +5,15 @@ body {
 }
 
 .container{	
-	margin-top: 3em;	
+	margin-top: 10px;	
+	padding: 5px;	
+}
+
+.dateText{
+	margin-left: 1em;
+	color: #000;
+	font-size: 20px;
+	font-weight: bold;
 }
 
 .row{
@@ -20,11 +28,37 @@ body {
 	text-align: center;
 }
 
-.bodyCalendar .day{	
-	height: 100px;
-	margin-bottom: 4px;
-	font-size: 16px;		
-	background: #234567;
-	display: inline-block;    
-	vertical-align: middle;	
+#headCalendar .day{
+	font-size: 100%;
+	font-weight: bold;
+}
+
+#bodyCalendar .day{		
+	margin-bottom: 4px;	
+	background: #003366;		
+	padding: 3%;
+	margin: 1px;
+
+	font-size: 200%;		
+	font-weight: bolder;
+	color: #fff;
+}
+
+#bodyCalendar .outroMes{
+	color: #000a1a;
+}
+
+@media only screen and (max-width: 700px) {
+  /* For mobile phones: */
+  
+  	.headCalendar .day{
+		font-size: 70%;
+		font-weight: bold;
+	}
+
+  	.day{
+		width: 13%;
+		display: inline-block;	
+		text-align: center;
+	}
 }

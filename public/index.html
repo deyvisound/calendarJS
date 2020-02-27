@@ -4,11 +4,17 @@
 	<title>Simple Calendar</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/materialize.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/calendar.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/util.css">
 </head>
 <body>
 
+	<div class="dateText"></div>
+
+	<p class="rightArrow"><i class="right"></i></p>
+	<p class="leftArrow"><i class="left"></i></p>
+
 	<div class="container teal lighten-2">
-    	<div class="row">   
+    	<div class="row" id="headCalendar">   
     		<div class="col s12 m12 l12"> 		
 				<div class="day 0">Sunday</div>
 			    <div class="day 1">Monday</div>
@@ -19,63 +25,14 @@
 			    <div class="day 6">Saturday</div>		    
 			</div>
 	    </div>    
-	    <div class="row bodyCalendar">
+	    <div class="row" id="bodyCalendar">
     		<div class="col s12 m12 l12"> 		
-				<div class="day 0"><span>1</span></div>
-			    <div class="day 1">2</div>
-			    <div class="day 2">3</div>
-			    <div class="day 3">4</div>
-			    <div class="day 4">5</div>
-			    <div class="day 5">6</div>
-			    <div class="day 6">7</div>		    
-			</div>
-    		<div class="col s12 m12 l12"> 		
-				<div class="day 0"></div>
-			    <div class="day 1"></div>
-			    <div class="day 2"></div>
-			    <div class="day 3"></div>
-			    <div class="day 4"></div>
-			    <div class="day 5"></div>
-			    <div class="day 6"></div>		    
-			</div>
-    		<div class="col s12 m12 l12"> 		
-				<div class="day 0"></div>
-			    <div class="day 1"></div>
-			    <div class="day 2"></div>
-			    <div class="day 3"></div>
-			    <div class="day 4"></div>
-			    <div class="day 5"></div>
-			    <div class="day 6"></div>		    
-			</div>
-    		<div class="col s12 m12 l12"> 		
-				<div class="day 0"></div>
-			    <div class="day 1"></div>
-			    <div class="day 2"></div>
-			    <div class="day 3"></div>
-			    <div class="day 4"></div>
-			    <div class="day 5"></div>
-			    <div class="day 6"></div>		    
-			</div>
-    		<div class="col s12 m12 l12"> 		
-				<div class="day 0"></div>
-			    <div class="day 1"></div>
-			    <div class="day 2"></div>
-			    <div class="day 3"></div>
-			    <div class="day 4"></div>
-			    <div class="day 5"></div>
-			    <div class="day 6"></div>		    
-			</div>
-    		<div class="col s12 m12 l12"> 		
-				<div class="day 0"></div>
-			    <div class="day 1"></div>
-			    <div class="day 2"></div>
-			    <div class="day 3"></div>
-			    <div class="day 4"></div>
-			    <div class="day 5"></div>
-			    <div class="day 6"></div>		    
+					    
 			</div>
 	    </div>
 	</div>
+
+	<div id="retorno"></div>
 
 <script type="text/javascript" src="assets/js/jquery-3.4.1.min.js"></script>
 <script type="text/javascript" src="assets/js/materialize.js"></script>
